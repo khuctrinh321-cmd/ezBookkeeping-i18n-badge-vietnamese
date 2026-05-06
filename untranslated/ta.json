@@ -295,6 +295,18 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Use Last Reconciled Time",
+        "defaultValue": "Use Last Reconciled Time",
+        "value": "Use Last Reconciled Time"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Last reconciled time or later",
+        "defaultValue": "Last reconciled time or later",
+        "value": "Last reconciled time or later"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Username/password login is disabled",
         "defaultValue": "Username/password login is disabled",
         "value": "Username/password login is disabled"
@@ -610,6 +622,18 @@
         "key": "Unable to delete these transactions",
         "defaultValue": "Unable to delete these transactions",
         "value": "Unable to delete these transactions"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Last Reconciled Time",
+        "defaultValue": "Last Reconciled Time",
+        "value": "Last Reconciled Time"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Sub-account Last Reconciled Time",
+        "defaultValue": "Sub-account Last Reconciled Time",
+        "value": "Sub-account Last Reconciled Time"
     },
     {
         "source": "src/locales/ta.json",

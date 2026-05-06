@@ -2341,6 +2341,18 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Use Last Reconciled Time",
+        "defaultValue": "Use Last Reconciled Time",
+        "value": "Use Last Reconciled Time"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Last reconciled time or later",
+        "defaultValue": "Last reconciled time or later",
+        "value": "Last reconciled time or later"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Log in with OAuth 2.0",
         "defaultValue": "Log in with OAuth 2.0",
         "value": "Log in with OAuth 2.0"
@@ -3106,6 +3118,18 @@
         "key": "Sub-account Outstanding Balance",
         "defaultValue": "Sub-account Outstanding Balance",
         "value": "Sub-account Outstanding Balance"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Last Reconciled Time",
+        "defaultValue": "Last Reconciled Time",
+        "value": "Last Reconciled Time"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Sub-account Last Reconciled Time",
+        "defaultValue": "Sub-account Last Reconciled Time",
+        "value": "Sub-account Last Reconciled Time"
     },
     {
         "source": "src/locales/vi.json",
