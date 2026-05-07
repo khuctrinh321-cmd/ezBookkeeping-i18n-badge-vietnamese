@@ -1237,6 +1237,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "error.last reconciled time is not enabled",
+        "defaultValue": "Last reconciled time is not enabled",
+        "value": "Last reconciled time is not enabled"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "error.api token is not enabled",
         "defaultValue": "API token is not enabled",
         "value": "API token is not enabled"
@@ -1288,6 +1294,18 @@
         "key": "error.not supported to modify account balance time",
         "defaultValue": "Not supported to modify account balance time",
         "value": "Not supported to modify account balance time"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.parent account cannot set last reconciled time",
+        "defaultValue": "Parent account cannot set last reconciled time",
+        "value": "Parent account cannot set last reconciled time"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.cannot set last reconciled time before current value",
+        "defaultValue": "Cannot set last reconciled time before current value",
+        "value": "Cannot set last reconciled time before current value"
     },
     {
         "source": "src/locales/vi.json",
@@ -1996,6 +2014,12 @@
         "key": "Current Billing Cycle",
         "defaultValue": "Current Billing Cycle",
         "value": "Current Billing Cycle"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Since Last Reconciled Time",
+        "defaultValue": "Since Last Reconciled Time",
+        "value": "Since Last Reconciled Time"
     },
     {
         "source": "src/locales/vi.json",
@@ -3136,6 +3160,24 @@
         "key": "Statement Date",
         "defaultValue": "Statement Date",
         "value": "Statement Date"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Mark as Reconciled",
+        "defaultValue": "Mark as Reconciled",
+        "value": "Mark as Reconciled"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Last reconciled time have been updated",
+        "defaultValue": "Last reconciled time have been updated",
+        "value": "Last reconciled time have been updated"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to update last reconciled time",
+        "defaultValue": "Unable to update last reconciled time",
+        "value": "Unable to update last reconciled time"
     },
     {
         "source": "src/locales/vi.json",
