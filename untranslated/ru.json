@@ -643,6 +643,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Are you sure you want to update the last reconciled time of this account to the current time?",
+        "defaultValue": "Are you sure you want to update the last reconciled time of this account to the current time?",
+        "value": "Are you sure you want to update the last reconciled time of this account to the current time?"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "Last reconciled time have been updated",
         "defaultValue": "Last reconciled time have been updated",
         "value": "Last reconciled time have been updated"
