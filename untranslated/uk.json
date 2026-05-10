@@ -1309,6 +1309,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Transaction Gallery",
+        "defaultValue": "Transaction Gallery",
+        "value": "Transaction Gallery"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Insights Explorer",
         "defaultValue": "Insights Explorer",
         "value": "Insights Explorer"

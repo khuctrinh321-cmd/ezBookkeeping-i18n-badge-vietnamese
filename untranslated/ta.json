@@ -343,6 +343,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Transaction Gallery",
+        "defaultValue": "Transaction Gallery",
+        "value": "Transaction Gallery"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Enter Edit Mode",
         "defaultValue": "Enter Edit Mode",
         "value": "Enter Edit Mode"

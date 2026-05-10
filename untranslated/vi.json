@@ -2431,6 +2431,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Transaction Gallery",
+        "defaultValue": "Transaction Gallery",
+        "value": "Transaction Gallery"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Insights Explorer",
         "defaultValue": "Insights Explorer",
         "value": "Insights Explorer"

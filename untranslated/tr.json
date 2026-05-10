@@ -535,6 +535,12 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Transaction Gallery",
+        "defaultValue": "Transaction Gallery",
+        "value": "Transaction Gallery"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Insights Explorer",
         "defaultValue": "Insights Explorer",
         "value": "Insights Explorer"
