@@ -3043,6 +3043,18 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Default Date Range for Reconciliation Statement Button",
+        "defaultValue": "Default Date Range for Reconciliation Statement Button",
+        "value": "Default Date Range for Reconciliation Statement Button"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Default Date Range for Reconciliation Statement Page",
+        "defaultValue": "Default Date Range for Reconciliation Statement Page",
+        "value": "Default Date Range for Reconciliation Statement Page"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Enable Swipe Back",
         "defaultValue": "Enable Swipe Back",
         "value": "Enable Swipe Back"

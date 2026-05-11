@@ -634,5 +634,17 @@
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Default Date Range for Reconciliation Statement Button",
+        "defaultValue": "Default Date Range for Reconciliation Statement Button",
+        "value": "Default Date Range for Reconciliation Statement Button"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Default Date Range for Reconciliation Statement Page",
+        "defaultValue": "Default Date Range for Reconciliation Statement Page",
+        "value": "Default Date Range for Reconciliation Statement Page"
     }
 ]

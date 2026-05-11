@@ -823,6 +823,18 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Default Date Range for Reconciliation Statement Button",
+        "defaultValue": "Default Date Range for Reconciliation Statement Button",
+        "value": "Default Date Range for Reconciliation Statement Button"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Default Date Range for Reconciliation Statement Page",
+        "defaultValue": "Default Date Range for Reconciliation Statement Page",
+        "value": "Default Date Range for Reconciliation Statement Page"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "SSV (Semicolon-separated values) File",
         "defaultValue": "SSV (Semicolon-separated values) File",
         "value": "SSV (Semicolon-separated values) File"

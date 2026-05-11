@@ -781,6 +781,18 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Default Date Range for Reconciliation Statement Button",
+        "defaultValue": "Default Date Range for Reconciliation Statement Button",
+        "value": "Default Date Range for Reconciliation Statement Button"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Default Date Range for Reconciliation Statement Page",
+        "defaultValue": "Default Date Range for Reconciliation Statement Page",
+        "value": "Default Date Range for Reconciliation Statement Page"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "File Format",
         "defaultValue": "File Format",
         "value": "File Format"
