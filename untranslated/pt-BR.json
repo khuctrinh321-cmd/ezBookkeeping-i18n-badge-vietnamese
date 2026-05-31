@@ -595,6 +595,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Auto Upload AI Recognition Image as Transaction Picture",
+        "defaultValue": "Auto Upload AI Recognition Image as Transaction Picture",
+        "value": "Auto Upload AI Recognition Image as Transaction Picture"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Default Date Range for Reconciliation Statement Button",
         "defaultValue": "Default Date Range for Reconciliation Statement Button",
         "value": "Default Date Range for Reconciliation Statement Button"

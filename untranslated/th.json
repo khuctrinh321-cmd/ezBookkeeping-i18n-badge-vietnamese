@@ -1981,6 +1981,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "Auto Upload AI Recognition Image as Transaction Picture",
+        "defaultValue": "Auto Upload AI Recognition Image as Transaction Picture",
+        "value": "Auto Upload AI Recognition Image as Transaction Picture"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "Import Transaction Dialog",
         "defaultValue": "Import Transaction Dialog",
         "value": "Import Transaction Dialog"
