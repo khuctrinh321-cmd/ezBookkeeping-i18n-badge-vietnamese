@@ -313,6 +313,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Original",
+        "defaultValue": "Original",
+        "value": "Original"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Paste",
         "defaultValue": "Paste",
         "value": "Paste"
@@ -1546,6 +1552,12 @@
         "key": "Quick Add Button Action",
         "defaultValue": "Quick Add Button Action",
         "value": "Quick Add Button Action"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Transaction Picture Upload Quality",
+        "defaultValue": "Transaction Picture Upload Quality",
+        "value": "Transaction Picture Upload Quality"
     },
     {
         "source": "src/locales/kn.json",

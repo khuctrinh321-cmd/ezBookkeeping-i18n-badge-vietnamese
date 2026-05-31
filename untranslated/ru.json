@@ -157,6 +157,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Original",
+        "defaultValue": "Original",
+        "value": "Original"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "Open Menu",
         "defaultValue": "Open Menu",
         "value": "Open Menu"
@@ -778,6 +784,12 @@
         "key": "Bottom Fixed",
         "defaultValue": "Bottom Fixed",
         "value": "Bottom Fixed"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Transaction Picture Upload Quality",
+        "defaultValue": "Transaction Picture Upload Quality",
+        "value": "Transaction Picture Upload Quality"
     },
     {
         "source": "src/locales/ru.json",

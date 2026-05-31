@@ -73,6 +73,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Original",
+        "defaultValue": "Original",
+        "value": "Original"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Status",
         "defaultValue": "Status",
         "value": "Status"
@@ -580,6 +586,12 @@
         "key": "Bottom Fixed",
         "defaultValue": "Bottom Fixed",
         "value": "Bottom Fixed"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Transaction Picture Upload Quality",
+        "defaultValue": "Transaction Picture Upload Quality",
+        "value": "Transaction Picture Upload Quality"
     },
     {
         "source": "src/locales/pt_BR.json",

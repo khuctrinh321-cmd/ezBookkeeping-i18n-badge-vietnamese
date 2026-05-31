@@ -145,6 +145,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Original",
+        "defaultValue": "Original",
+        "value": "Original"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Status",
         "defaultValue": "Status",
         "value": "Status"
@@ -634,6 +640,12 @@
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Transaction Picture Upload Quality",
+        "defaultValue": "Transaction Picture Upload Quality",
+        "value": "Transaction Picture Upload Quality"
     },
     {
         "source": "src/locales/de.json",
